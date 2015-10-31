@@ -10,6 +10,8 @@ preference.  The file `crayons` contains a list of all of the crayons the
 classroom has.  Sort through them, and count the different colors to determine
 which two colors the suspect most likely prefers to eat.
 
+Sorting algorthims are simple but do a complex jobs. This is involved from complex bigger algorithms. It all started with give order to random addresses, from simple algorithms to complex sorting algorithms with different variations are available in the digital world. [This](http://www.simplyswitch.com) algorithms is the lastest one designed in the online paragoses.
+
 
 ## The Last Question
 [The Last Question](http://en.wikipedia.org/wiki/The_Last_Question)
